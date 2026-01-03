@@ -1,0 +1,25 @@
+/* global css */
+*{
+    font: size 30px;
+    font-weight: 500;
+}
+/* External CSS */
+h3{
+    color: #00ffa6;
+}
+/* element selector */
+h4{
+    color: hsl(184, 87%, 42%);
+}
+/* class selector */
+.myclass{
+    color: darkorange;
+}
+/* id selector */
+.myid{
+    color: lab(35.51% 62.82 -86.01);
+}
+/* gorup selector */
+h5,p{
+    color: #14dc1e;
+}
